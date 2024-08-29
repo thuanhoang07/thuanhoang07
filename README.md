@@ -7,6 +7,6 @@ Embedded Software Engineer
 I want to be a Fullstack engineer in the future!
 
 *   🌍  I'm based in Việt Nam
-*   ✉️  You can contact me at [hoangtranminhthuan](mailto:hoangtranminhthuan.work@gmail.com)
+*   ✉️  You can contact me at [Email](mailto:hoangtranminhthuan.work@gmail.com)
 *   🚀  I'm currently working on [EoH](https://eoh.io/)
 *   🧠  I'm learning Electronics and Telecommunication
