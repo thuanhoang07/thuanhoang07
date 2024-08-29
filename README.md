@@ -11,6 +11,12 @@ I want to be a Fullstack engineer in the future!
 *   🚀  I'm currently working on [EoH](https://eoh.io/)
 *   🧠  I'm learning Electronics and Telecommunication
 
+<p align="left">
+<a href="https://twitter.com/thupvt10a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thupvt10a2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nguyễn thị anh thư" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyễn thị anh thư" height="30" width="40" /></a>
+</p>
+
+<p>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
 </a>
@@ -29,3 +35,4 @@ I want to be a Fullstack engineer in the future!
 <a href="https://www.linux.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
 </a>
+</p>
