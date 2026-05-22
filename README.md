@@ -9,7 +9,7 @@ I want to be a Fullstack engineer in the future!
 *   🌍  I'm based in Việt Nam
 *   ✉️  You can contact me at [Email](mailto:hoangtranminhthuan.work@gmail.com)
 
-*   🧠  I'm AI Integration R&D Specialist
+*   🧠  I'm AI Integration R&D Specialist at KDI EDUCATION in VietNam
 
 <h3 align="left">Contact:</h3>
 <p align="left">
